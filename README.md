@@ -5,7 +5,7 @@ This project contains an interactive grouped bar chart created using D3.js.
 The visualization compares smoking prevalence and drug experimentation rates across different age groups in the year 2024.
 
 ## Live Visualization (GitHub Pages)
-Link: https://your-username.github.io/your-repo-name/](https://mohammadalidehghani.github.io/Information-Visualization---Individual-Assignment-3/
+Link: https://mohammadalidehghani.github.io/Information-Visualization---Individual-Assignment-3/
 
 ## Project Structure
 index.html
