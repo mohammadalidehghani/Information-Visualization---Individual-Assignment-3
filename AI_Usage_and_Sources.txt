@@ -1,0 +1,13 @@
+I used ChatGPT mainly as a coding assistant for this project. The conceptual ideas behind the visualization including the decision to compare smoking prevalence and drug experimentation, as well as the choice to use a grouped bar chart were fully my own. These decisions were based on the structure of the dataset and what I considered the most meaningful way to present the information.
+
+ChatGPT supported me in the following ways:
+
+1. Code generation and implementation
+
+Helped me write the D3.js code, including setting up the grouped bar chart, loading the dataset, and creating interactions such as tooltips, hover highlighting, and animations.
+
+2. Code debugging and improvement
+
+Assisted in identifying issues in early versions of the script and provided suggestions to improve transitions, event handling, and general code structure.
+
+While I relied on ChatGPT for technical coding support, all visualization decisions, interpretations, and design choices were made by me.
